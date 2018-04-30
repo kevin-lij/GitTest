@@ -1,0 +1,15 @@
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+swagger:
+  title: Wanda Cloud Market API Docs
+  version: 1.0
+logging:
+  level:
+    root: info
+  path: /tmp
+  file: product_management
+userAuthentication:
+  need: false
+  mockUserId: 10000
+server:
+  port: 8015
