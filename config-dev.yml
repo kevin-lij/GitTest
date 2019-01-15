@@ -3,3 +3,5 @@ com:
     name: kevin5
     desc: qk
     password: 123456
+  test:
+    prop: git-valid
