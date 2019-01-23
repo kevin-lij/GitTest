@@ -3,4 +3,6 @@ com:
     name: 李白
     desc: 疑是银河落九天
     password: 123456
+  test:
+    prop: hi
 
