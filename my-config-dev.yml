@@ -1,6 +1,6 @@
 com:
   lij:
-    name: 李白2
+   # name: 李白2
     desc: 疑是银河落九天
     password: 123456
   test:
